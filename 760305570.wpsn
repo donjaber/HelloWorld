@@ -11,11 +11,11 @@
         "username": "donjaber",
         "repository": "HelloWorld"
     },
-    "height": "500",
+    "height": 394,
     "htmlMode": false,
     "id": 760305570,
     "mode": "6328746328",
-    "modified_date": 1506283136152,
+    "modified_date": 1506283212849,
     "pos_x": 119,
     "pos_y": 85,
     "scope": {
@@ -25,7 +25,8 @@
         "port": "",
         "search": "?test2"
     },
-    "text": "",
+    "text": "Testing",
     "textcolor": "hsla(0, 0%, 26.7%, 1)",
-    "width": "500"
+    "width": 468,
+    "title": "Testing"
 }
