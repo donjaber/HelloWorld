@@ -7,11 +7,15 @@
         "size": null
     },
     "fullscreen": false,
+    "github": {
+        "username": "donjaber",
+        "repository": "HelloWorld"
+    },
     "height": "500",
     "htmlMode": false,
     "id": 363063045,
     "mode": "6328746328",
-    "modified_date": 1506219999305,
+    "modified_date": 1506280304309,
     "pos_x": 1100,
     "pos_y": 56,
     "scope": {
@@ -23,9 +27,5 @@
     },
     "text": "",
     "textcolor": "hsla(0, 0%, 26.7%, 1)",
-    "width": "500",
-    "github": {
-        "username": "donjaber",
-        "repository": "HelloWorld"
-    }
+    "width": "500"
 }
