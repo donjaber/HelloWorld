@@ -9,13 +9,14 @@
     "fullscreen": false,
     "github": {
         "username": "donjaber",
-        "repository": "HelloWorld"
+        "repository": "HelloWorld",
+        "path": "tester"
     },
     "height": 394,
     "htmlMode": false,
     "id": 760305570,
     "mode": "6328746328",
-    "modified_date": 1506289075529,
+    "modified_date": 1506289197897,
     "pos_x": 119,
     "pos_y": 85,
     "scope": {
